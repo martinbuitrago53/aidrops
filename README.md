@@ -1,6 +1,6 @@
 # aidrops
 ## Que es un Airdrop
-1. [General Info](#general-info)
+1. [que funcion tienen](#que funcion tienen)
 2. [Technologies](#technologies)
 3. [Installation](#installation)
 4. [Collaboration](#collaboration)
