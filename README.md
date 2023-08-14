@@ -2,7 +2,7 @@
 ## Que es un Airdrop
 1. [que funcion tienen](#que funcion tienen)
 2. [son garantizados?](#son garantizados?)
-3. [Installation](#installation)
+3. [vale la pena hacerlos](#vale la pena hacerlos)
 4. [Collaboration](#collaboration)
 5. [FAQs](#faqs)
 ### General Info
