@@ -1,4 +1,4 @@
-# aidrops
+# Aidrops
 ## Que es un Airdrop
 1. [que funcion tienen](#que funcion tienen)
 2. [son garantizados?](#son garantizados?)
