@@ -1,5 +1,5 @@
 # Aidrops....
-## Que es un Airdrop...
+## Que es un Airdrop.
 1. [que funcion tienen?](#que-funcion-tienen?)
 2. [son garantizados?](#son-garantizados?)
 3. [vale la pena hacerlos?](#vale-la-pena-hacerlos?)
